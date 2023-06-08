@@ -1,4 +1,4 @@
 ---
-title: learning to use github pages and jekil
+title: jekill blog posts on github pages
 ---
 
